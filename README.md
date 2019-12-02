@@ -35,6 +35,7 @@ ROS에서 각 노드는 다음과 같이 연결되어 있습니다. Darknet_ros 
 Our current implementation is tested on:
 
 - [ZED_SDK v2.8.3](https://www.stereolabs.com/developers/release/#sdkdownloads_anchor)
+- [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 - openCV 2.4.9
 - [Python 2.7](https://www.python.org/downloads/)
 - [PyTorch 1.0.0](http://pytorch.org)
